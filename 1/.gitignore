@@ -1,0 +1,28 @@
+hashmap
+# CMake build
+/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Executables
+bench
+*.out
+*.exe
+
+# Editor files
+*.swp
+*.swo
+*.swn
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+*.folded
+*.data
+perf*.data*
+
+libhashmap.a

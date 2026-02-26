@@ -1,0 +1,5 @@
+/Users/nekrasov-ks/uni/1sem/cpp/3/build/CMakeFiles/thread_pool.dir
+/Users/nekrasov-ks/uni/1sem/cpp/3/build/CMakeFiles/histogram.dir
+/Users/nekrasov-ks/uni/1sem/cpp/3/build/CMakeFiles/bench.dir
+/Users/nekrasov-ks/uni/1sem/cpp/3/build/CMakeFiles/edit_cache.dir
+/Users/nekrasov-ks/uni/1sem/cpp/3/build/CMakeFiles/rebuild_cache.dir
